@@ -1,6 +1,6 @@
 window.onload = function() {
 
-var c = new SubregionPieChart('caribbean');
+var c = new SubregionPieChart('polynesia');
 
 }
 
